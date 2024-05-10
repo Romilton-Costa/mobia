@@ -1,12 +1,12 @@
 # App mobia 👋
 
 ## chat project using google gemini api and expo speech
-<div style="display:flex, flex-direction:row">
+
    
 ![](assets/images/mobiaapp1.png)
    
 ![](assets/images/mobiaapp.png)
-</div>
+
 ## Get started
 
 1. Install dependencies
