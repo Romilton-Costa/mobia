@@ -1,4 +1,4 @@
-# Project App mobia 👋
+# App mobia 👋
 
 ## chat project using google gemini api and expo speech
 
